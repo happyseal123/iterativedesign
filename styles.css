@@ -108,7 +108,6 @@ body {
     color: #fff !important;
   }
 
-  /* M's additions below */
   #test-instructions{
     margin-left:2rem;
   }
@@ -128,4 +127,9 @@ body {
 
   #user-testing{
     color: black;
+  }
+
+  #hi-fi-gif{
+    height:28.5rem;
+    width:auto;
   }
